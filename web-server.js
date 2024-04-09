@@ -1,1 +1,0 @@
-require('./WebServerModule.js').start({path: "."});
